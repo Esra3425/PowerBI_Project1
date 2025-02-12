@@ -9,7 +9,10 @@ Kullanılan Araçlar
 Power BI
 
 Analiz Edilen Tablolar ve Görselleştirmeler
-(Proje Screenshot) - [Project1.png]
+
+(Proje Screenshot) - [Project1.png](https://github.com/Esra3425/PowerBI_Project1/blob/main/Project1.png?raw=true)
+
+
 Treemap
 Tablo: "Which country do you live in?"
 Açıklama: Katılımcıların yaşadıkları ülkelere göre dağılımlarını görselleştirir.
