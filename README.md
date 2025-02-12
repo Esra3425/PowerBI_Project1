@@ -7,8 +7,9 @@ Veri seti, muhtemelen Kaggle'dan alınmıştır (kesin kaynak doğrulanmamışt�
 
 Kullanılan Araçlar
 Power BI
-Analiz Edilen Tablolar ve Görselleştirmeler
 
+Analiz Edilen Tablolar ve Görselleştirmeler
+(Proje Screenshot) - [Project1.png]
 Treemap
 Tablo: "Which country do you live in?"
 Açıklama: Katılımcıların yaşadıkları ülkelere göre dağılımlarını görselleştirir.
